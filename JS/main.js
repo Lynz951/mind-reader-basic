@@ -20,7 +20,7 @@ let views= [
     },
 
     {
-      headerText: "Add both didgits together to get a new number",
+      headerText: "Add both digits together to get a new number",
       helperText: "Ex: 14 is 1 + 4 = 5 <br> click next to proceed",
     },
 
